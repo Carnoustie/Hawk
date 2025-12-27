@@ -3,4 +3,4 @@ Bond market coverage app.<br><br>After recently (December 2025) reading some his
 <img src="Miscellanous/HawkLogo.png" alt="Hawk" width="50%">
 
 # High-level architecture overview
-<img src="Miscellanous/Centralbank_Architecture_Overview.svg" alt="Hawk" width="100%">
+<img src="Miscellanous/Centralbank_Architecture_Overview.svg" alt="Centralbank" width="100%">
